@@ -439,6 +439,7 @@ footer{
 }
 .contact-us-container{
   flex-direction: column;
+  
 }
 .contact-left{
   border-right: none;
@@ -449,11 +450,16 @@ footer{
 .wpp{
   padding-top: 20px;
 }
-
-/* Celular 576px 
-
-@media (max-width: 576px){
-  
 }
 
-*/
+/*Celular 576px */
+
+@media (max-width: 576px){
+  .header{
+    font-size: 50%;
+  }
+  .projects-content h2{
+    
+  }
+}
+
