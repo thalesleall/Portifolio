@@ -267,6 +267,13 @@ body nav ul li a.actived {
   border: none;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
 }
+.dialog a img{
+  width: 250px;
+  height: 150px;
+  padding-top: 10px;
+  margin: 0 auto; 
+}
+
 .dialog button{
   padding: 10px 20px;
   font-size: 16px;
