@@ -456,10 +456,24 @@ footer{
 
 @media (max-width: 576px){
   .header{
-    font-size: 50%;
+    font-size: 60%;
   }
-  .projects-content h2{
+  .header ul li {
+    margin: 0 5px;
+  }
+  .photo {
+    width: 130px;
+    height: 130px;
+  }
+  .contact-inputs{
+    width: 200px;
+  }
+  .contact-container p {
+    padding: 0 10px;
+  }
+  .about-me-content{
     
+    font-size: 50%;
   }
 }
 
